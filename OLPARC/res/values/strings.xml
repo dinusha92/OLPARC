@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OLPARC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name ="lottery_array" >
+        <item >Mahajana Sampatha</item>
+        <item >Govi Setha</item>
+        <item >Super Ball</item>
+        <item >Jathika Sampatha</item>
+        <item >Saturday Fortune</item>
+        <item >Jayodha</item>
+        <item >Niyatha Jaya</item>
+        <item >Wasana Sampatha</item>
+    </string-array>
+
+</resources>
